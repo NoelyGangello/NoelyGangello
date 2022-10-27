@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![img](https://rawcdn.githack.com/NoelyGangello/NoelyGangello/d6aa0bcd000ac6300bf2d5d2f91a72e8a5901e4b/fstn18.svg)](https://github.com/dh-fs-tn-18-g7)
+
 <!--
 **NoelyGangello/NoelyGangello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
