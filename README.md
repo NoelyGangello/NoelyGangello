@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-[![img](https://rawcdn.githack.com/dh-fs-tn-18-g7/.github/97babdb5dca2a7cdfdb765c692887654a74a4803/profile/dh-fstn-19-g7.svg)](https://github.com/dh-fs-tn-18-g7)
+[![img](https://rawcdn.githack.com/NoelyGangello/NoelyGangello/08cb021b61e2b3730fb676c577bf27ae6947231a/assets/pix/Noely-G_fs-tn-18.svg)](https://github.com/dh-fs-tn-18-g7)
 
+<!--
+[![img](https://rawcdn.githack.com/dh-fs-tn-18-g7/.github/97babdb5dca2a7cdfdb765c692887654a74a4803/profile/dh-fstn-19-g7.svg)](https://github.com/dh-fs-tn-18-g7)
+-->
 <!--
 **NoelyGangello/NoelyGangello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
