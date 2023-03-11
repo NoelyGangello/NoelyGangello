@@ -31,4 +31,4 @@
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/pt/free/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)](https://cloud.google.com)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-#905)](https://www.typescriptlang.org)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-purple)](https://www.typescriptlang.org)
