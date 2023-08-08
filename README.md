@@ -3,7 +3,7 @@
 <h1 align = "justify"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Noely</h1>
 
 <!-- [![img](https://rawcdn.githack.com/NoelyGangello/NoelyGangello/08cb021b61e2b3730fb676c577bf27ae6947231a/assets/pix/Noely-G_fs-tn-18.svg)](https://github.com/dh-fs-tn-18-g7) -->
-[![img](@NoelyGangello3.png)](https://github.com/dh-fs-tn-18-g7)
+[![img](@NoelyGangello2.png)](https://github.com/dh-fs-tn-18-g7)
 
 <!--
 [![img](https://rawcdn.githack.com/dh-fs-tn-18-g7/.github/97babdb5dca2a7cdfdb765c692887654a74a4803/profile/dh-fstn-19-g7.svg)](https://github.com/dh-fs-tn-18-g7)
